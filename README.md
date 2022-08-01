@@ -1,4 +1,4 @@
-# Project1_Passos_Braouni
+# Tresa-Search-Engine
 
 Lucene Version 8.0.0 : https://archive.apache.org/dist/lucene/java/8.0.0/
 
